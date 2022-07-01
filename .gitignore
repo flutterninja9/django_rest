@@ -1,3 +1,4 @@
 venv/**
 my_first_application/db.sqlite3
 my_first_application/my_first_application/__pycache__/**
+my_first_application/greet_app/__pycache__/**
